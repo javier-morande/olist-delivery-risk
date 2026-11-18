@@ -1,4 +1,5 @@
 # Olist Delivery Risk
+[Open the interactive demo](https://olist-delivery-risk-dagchqjkwfywkjgsrwagta.streamlit.app/)
 
 A data science portfolio project that predicts late-delivery risk
 and presents historical orders in an interactive review queue.
